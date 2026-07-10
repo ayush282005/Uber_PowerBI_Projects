@@ -1,15 +1,20 @@
 🚖 Uber Power BI Dashboard – Business Analytics Project
+
 An end-to-end Power BI analytics dashboard designed to analyze Uber ride data and deliver actionable insights across bookings, revenue, vehicles, customers, and locations.
+
 This project focuses on business-driven analytics, data modeling, DAX calculations, and professional dashboard design.
 
 Click here to view the Power BI report:
+
 [https://app.fabric.microsoft.com/view?r=eyJrIjoiMWM3NDhiOWItNWZhNi00ODc2LTg1MjQtYmM2Y2Y5ODM1MTJkIiwidCI6ImY5YTQzODQwLWY3OGUtNDE3Yy05ZDgwLTg5NTJhMmJhN2Y0YiJ9](url)
 
 📌 Project Overview
+
 Uber operates at a large scale with thousands of daily rides. Managing such operations requires transforming raw ride data into meaningful insights that support decision-making.
 This project addresses key business questions related to performance monitoring, revenue optimization, customer behavior, and operational efficiency using Microsoft Power BI.
 
 🎯 Business Objectives
+
 Monitor overall ride and revenue performance
 Identify revenue drivers and loss areas
 Analyze vehicle-wise contribution and efficiency
@@ -18,6 +23,7 @@ Identify peak demand locations and time slots
 Enable data-driven operational and strategic decisions
 
 📂 Dataset Overview
+
 The dataset represents ride-level transactional data and includes:
 
 Booking details (Booking ID, Status, Value)
@@ -30,6 +36,7 @@ Ratings and cancellation reasons
 Data is analyzed on monthly and quarterly levels to identify trends and patterns
 
 🧱 Dashboard Architecture
+
 The dashboard is structured into five analytical pages, each serving a specific business requirement:
 
 1.Overview
@@ -40,18 +47,7 @@ The dashboard is structured into five analytical pages, each serving a specific 
 6.Interactive navigation buttons and filters allow seamless movement between pages.
 
 📊 Page-wise Business Explanation
-1️⃣ Home / Landing Page
-Purpose
 
-Introduces the Uber analytics dashboard
-Provides context and navigation for users
-Key Features
-
-Uber branding and visual identity
-Brief description of dashboard purpose
-Navigation buttons to all analytical pages
-Business Value
-📊 Page-wise Business Explanation
 1️⃣ Home / Landing Page
 Purpose
 
